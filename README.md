@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm SALMA BOUIZMOUNE</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E80956&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Salma+Bouizmoune;I'm+a+Full+Stack+Developer+:%29)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate FULL-STACK developer from Morocco</h3>
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
