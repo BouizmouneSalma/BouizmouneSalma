@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bouizmoune Salma and I'm a Full-stack Web and Web App Developer.</h2>
+<h2 align="left">Hi 👋! My name is Bouizmoune Salma and I'm a Full-stack Web Developer.</h2>
 
 
 
