@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F78407&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bouizmoune+Salma;Full-Stack+Web+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F78407&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Salma+Bouizmoune;Full-Stack+Web+Developer;" />
 </p>
 
 ---
 
 ## 👩‍💻 À propos de moi
 
-- 🎓 Étudiante à YouCode (UM6P) en Développement Web Avancé  
+- 🎓 Formation professionnelle en Développement Web Full-Stack – UM6P (YouCode Maroc)
 - 🎓 Licence en Mathématiques & Informatique – Université Cadi Ayyad  
-- 👩‍💻 Développeuse Full-stack passionnée par l’**IA**, l’**analyse d’images** et les **infrastructures urbaines intelligentes**
-- 🛠️ Spécialiste en Laravel, JavaScript, MySQL, et UI/UX  
+- 👩‍💻 Développeuse Full-Stack (Laravel, JavaScript/TypeScript, Python, Tailwind CSS) 
+- 🤖 Enthousiaste de Machine Learning, vision par ordinateur et smart cities
 - 📬 Contact : **salmabouizmoune@gmail.com**
 
 ## 🧰 Stack Technique
