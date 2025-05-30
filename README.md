@@ -19,7 +19,7 @@
   <br />
   <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,figma,latex" height="45" />
   <br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux,GitLab" height="45" />
   <br />
   <img src="https://skillicons.dev/icons?i=trello,jira" height="45" />
 </p>
