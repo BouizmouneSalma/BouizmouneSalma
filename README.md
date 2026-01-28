@@ -6,10 +6,10 @@
 
 ## 👩‍💻 À propos de moi
 
-- 🎓 Formation professionnelle en Développement Web Full-Stack – UM6P (YouCode Maroc)
+- 🎓 Formation en Développement Web Full-Stack & IA/ML – YouCode (UM6P)
 - 🎓 Licence en Mathématiques & Informatique – Université Cadi Ayyad  
-- 👩‍💻 Développeuse Full-Stack (Laravel, JavaScript/TypeScript, Python, Tailwind CSS) 
-- 🤖 Enthousiaste de Machine Learning, vision par ordinateur et smart cities
+- 👩‍💻 Développeuse Full-Stack (Laravel, FastAPI, React, JavaScript/TypeScript, Python, Tailwind CSS) 
+- 🤖 Intéressée par l’Intelligence Artificielle, le Machine Learning, la vision par ordinateur et les applications smart city
 - 📬 Contact : **salmabouizmoune@gmail.com**
 
 ## 🧰 Stack Technique
