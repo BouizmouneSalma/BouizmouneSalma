@@ -28,8 +28,10 @@
 
 ## 📚 Certifications
 
-- 🟢 **JavaScript Foundations** – Mozilla  
-- 🟢 **Agile Project Management** – Atlassian  
+- 🟢 Agile Project Management Professional Certificate – Atlassian 
+- 🟢 JavaScript Foundations Professional Certificate – LinkedIn
+- 🟢 GitHub Career Essentials Certificate – GitHub
+- 🏆 Stellantis Student Award 2025 – Stellantis  
 
 ---
 
